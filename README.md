@@ -25,6 +25,7 @@ xdebugの設定は下記
 
 # バックグラウンド実行
 $ docker-compose up -d
+--build
 # コンテナの停止
 $ docker-compose stop
 # コンテナの停止＆削除 -> upで反映
